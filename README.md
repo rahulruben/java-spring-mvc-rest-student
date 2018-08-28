@@ -1,1 +1,1 @@
-# java-spring-mvc-rest-student
+# Student RESTful web services using Spring 5 MVC framework
